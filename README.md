@@ -6,6 +6,10 @@ This is a personal portfolio website showcasing my skills, interests, and backgr
 
 This portfolio website is a simple, clean, and responsive web page that highlights my skills in both frontend and backend development. It also provides insights into my personal interests and how they contribute to my overall growth. The site is designed to be easy to navigate, with smooth scrolling between sections.
 
+## Demo
+
+https://chandranshulg.github.io/portfolio-2/
+
 ## Features
 
 - **Responsive Design:** The website is designed to be accessible on various devices, including desktops, tablets, and smartphones.
